@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "dataname": "users",
+      "url": "https://random-data-api.com/api/v2/users"
+    },
+    {
+      "id": "2",
+      "dataname": "banks",
+      "url": "https://random-data-api.com/api/v2/banks"
+    },
+    {
+      "id": "3",
+      "dataname": "beers",
+      "url": "https://random-data-api.com/api/v2/beers"
+    }
+  ]
+}
